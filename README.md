@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # weibo
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# myblog
+>>>>>>> 896b0a965d4819d319a5492a4eaddf3a28fc7187
